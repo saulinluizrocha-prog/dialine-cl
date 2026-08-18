@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/index.php", "destination": "/index.html" },
+    { "source": "/subscribe1.php", "destination": "/success.html" }
+  ]
+}
