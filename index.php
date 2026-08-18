@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head><script src="default-js/pending-order-popup.js"></script><script src="default-js/invalid-phone-popup.js"></script><script src="default-js/scroll.js"></script><script src="default-js/jquery.min.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="css/style.min.css">
+  <title>
+    Comprar Dialine a buen precio. Precios, comentarios. ¡Solicite
+    Dialine ahora!
+  </title>
+  <script data-polyfil="webp">!function (e, n, A) { function o(e, n) { return typeof e === n } function t() { var e, n, A, t, a, i, l; for (var f in r) if (r.hasOwnProperty(f)) { if (e = [], n = r[f], n.name && (e.push(n.name.toLowerCase()), n.options && n.options.aliases && n.options.aliases.length)) for (A = 0; A < n.options.aliases.length; A++)e.push(n.options.aliases[A].toLowerCase()); for (t = o(n.fn, "function") ? n.fn() : n.fn, a = 0; a < e.length; a++)i = e[a], l = i.split("."), 1 === l.length ? Modernizr[l[0]] = t : (!Modernizr[l[0]] || Modernizr[l[0]] instanceof Boolean || (Modernizr[l[0]] = new Boolean(Modernizr[l[0]])), Modernizr[l[0]][l[1]] = t), s.push((t ? "" : "no-") + l.join("-")) } } function a(e) { var n = u.className, A = Modernizr._config.classPrefix || ""; if (c && (n = n.baseVal), Modernizr._config.enableJSClass) { var o = new RegExp("(^|\s)" + A + "no-js(\s|$)"); n = n.replace(o, "$1" + A + "js$2") } Modernizr._config.enableClasses && (n += " " + A + e.join(" " + A), c ? u.className.baseVal = n : u.className = n) } function i(e, n) { if ("object" == typeof e) for (var A in e) f(e, A) && i(A, e[A]); else { e = e.toLowerCase(); var o = e.split("."), t = Modernizr[o[0]]; if (2 == o.length && (t = t[o[1]]), "undefined" != typeof t) return Modernizr; n = "function" == typeof n ? n() : n, 1 == o.length ? Modernizr[o[0]] = n : (!Modernizr[o[0]] || Modernizr[o[0]] instanceof Boolean || (Modernizr[o[0]] = new Boolean(Modernizr[o[0]])), Modernizr[o[0]][o[1]] = n), a([(n && 0 != n ? "" : "no-") + o.join("-")]), Modernizr._trigger(e, n) } return Modernizr } var s = [], r = [], l = { _version: "3.6.0", _config: { classPrefix: "", enableClasses: !0, enableJSClass: !0, usePrefixes: !0 }, _q: [], on: function (e, n) { var A = this; setTimeout(function () { n(A[e]) }, 0) }, addTest: function (e, n, A) { r.push({ name: e, fn: n, options: A }) }, addAsyncTest: function (e) { r.push({ name: null, fn: e }) } }, Modernizr = function () { }; Modernizr.prototype = l, Modernizr = new Modernizr; var f, u = n.documentElement, c = "svg" === u.nodeName.toLowerCase(); !function () { var e = {}.hasOwnProperty; f = o(e, "undefined") || o(e.call, "undefined") ? function (e, n) { return n in e && o(e.constructor.prototype[n], "undefined") } : function (n, A) { return e.call(n, A) } }(), l._l = {}, l.on = function (e, n) { this._l[e] || (this._l[e] = []), this._l[e].push(n), Modernizr.hasOwnProperty(e) && setTimeout(function () { Modernizr._trigger(e, Modernizr[e]) }, 0) }, l._trigger = function (e, n) { if (this._l[e]) { var A = this._l[e]; setTimeout(function () { var e, o; for (e = 0; e < A.length; e++)(o = A[e])(n) }, 0), delete this._l[e] } }, Modernizr._q.push(function () { l.addTest = i }), Modernizr.addAsyncTest(function () { function e(e, n, A) { function o(n) { var o = n && "load" === n.type ? 1 == t.width : !1, a = "webp" === e; i(e, a && o ? new Boolean(o) : o), A && A(n) } var t = new Image; t.onerror = o, t.onload = o, t.src = n } var n = [{ uri: "data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=", name: "webp" }, { uri: "data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA==", name: "webp.alpha" }, { uri: "data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA", name: "webp.animation" }, { uri: "data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=", name: "webp.lossless" }], A = n.shift(); e(A.name, A.uri, function (A) { if (A && "load" === A.type) for (var o = 0; o < n.length; o++)e(n[o].name, n[o].uri) }) }), t(), a(s), delete l.addTest, delete l.addAsyncTest; for (var p = 0; p < Modernizr._q.length; p++)Modernizr._q[p](); e.Modernizr = Modernizr }(window, document)</script>
+</head>
+
+<body>
+  <div class="block block1">
+    <div class="wrapper flex">
+      <div class="block1__header" data-wow-delay=".5s">
+        <div class="header__left">
+          <div class="left__logo ib">
+            <picture>
+              <source srcset="img/logo.webp" type="image/webp">
+              <img src="img/logo.png" alt="logo">
+            </picture>
+          </div>
+        </div>
+        <div class="header__right">
+          <ul class="right__list">
+            <li class="list__item">
+              <span class="item__img item__img-blue">
+                <img src="img/block1__img1.svg" alt="pic" class="img__pic">
+              </span>
+              <span class="item__text">
+                Reduce el riesgo de <br>infarto y derrame cerebral
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img item__img-orange">
+                <img src="img/block1__img2.svg" alt="pic" class="img__pic">
+              </span>
+              <span class="item__text">
+                Protege de la<br>
+                insuficiencia renal
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img item__img-green">
+                <img src="img/block1__img3.svg" alt="pic" class="img__pic">
+              </span>
+              <span class="item__text">
+                Impide la aparición<br> de la ceguera
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="block1__footer">
+        <div class="footer__left">
+          <h2 class="left__title">
+            <span class="color__green">Elimina las complicaciones</span>
+            <span class="color__blue">y facilita la vida con la diabetes</span>
+          </h2>
+          <ul class="left__list wow fadeInDown">
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Evita los aumentos de azúcar,</span>
+                <br>mejora el bienestar <br>durante todo el día
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Procesa la glucosa en energía, </span><br>protegiendo los órganos
+                internos y los <br>vasos
+                de la destrucción
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Restablece el metabolismo<br>
+                  y reduce el peso,</span>
+                ayudando a resolver la causa principal de la diabetes
+              </span>
+            </li>
+          </ul>
+        </div>
+        <div class="footer__center">
+          <div class="center__prod">
+            <picture>
+              <source media="(max-width: 767px)" srcset="img/prod_mob.webp" type="image/webp">
+              <source media="(max-width: 767px)" srcset="img/prod_mob.png">
+              <source srcset="img/prod.webp" type="image/webp">
+              <img src="img/prod.png" alt="prod" class="prod__img">
+            </picture>
+          </div>
+        </div>
+        <div class="footer__right">
+          <form action="subscribe1.php" method="post" class="x_order_form right__form">
+            <div class="form__price">
+              <div class="price__old">
+                <p class="price__text">Precio viejo</p>
+                <span class="price__num price__num-old ib"><span class="x_price_previous">69800</span><span class="x_currency">clp</span></span>
+              </div>
+              <div class="price__line">
+                <span class="price__el">
+                  <span class="el__proc">50</span>
+                  <span class="el__proc">%</span>
+                </span>
+              </div>
+              <div class="price__new">
+                <p class="price__text">Precio nuevo</p>
+                <span class="price__num price__num-new ib"><span class="x_price_current">34900</span><span class="x_currency">clp</span></span>
+              </div>
+            </div>
+            <div class="form__name">
+              <input type="text" name="name" autocomplete="name" class="form__name__field" placeholder="Nombre" required>
+            </div>
+            <div class="form__tel">
+              <input type="tel" name="phone" autocomplete="tel" class="form__tel__field" placeholder="Teléfono" required>
+            </div>
+            <button type="submit" class="btn form__btn">
+              <span class="btn__text-1">Pedir</span>
+              <span class="btn__text-2">con descuento</span>
+            </button>
+          <input type="hidden" name="campaign_id" value="1496763"><input type="hidden" name="es_list_id" value=""><input type="hidden" name="chatbot_history" value="{}"><input type="hidden" name="sid5" value="{subid}"><input type="hidden" name="landing_id" value="12613"><input type="hidden" name="country_code" value="CL"></form>
+          <div class="form__security">
+            <img src="img/security.svg" alt="security" class="security__img">
+            <span class="security__text">¡Sus datos están protegidos!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block block2">
+    <div class="wrapper flex">
+      <h2 class="title" data-wow-delay=".5s">
+        <span class="ib">Cualquiera de nosotros</span> puede ser víctima
+        de la diabetes
+      </h2>
+      <div class="block2__header">
+        <div class="header__img ">
+          <picture>
+            <source srcset="img/block2__img.webp" type="image/webp">
+            <img src="img/block2__img.png" alt="pic" class="img__pic wow flipInX" data-wow-duration="1s">
+          </picture>
+        </div>
+        <h3 class="header__title" data-wow-duration="3s">
+          Datos oficiales de la OMS:
+        </h3>
+        <p class="header__text" data-wow-duration="3s">
+          En los últimos<span class="text__bold"> 30 años</span> el
+          número de personas con diabetes ha aumentado
+          <span class="ib"><span class="text__bold"> 4 veces.</span></span>
+          Hoy en día en el mundo hay
+          <span class="text__bold">422 millones</span> de personas con
+          diabetes.
+          Es como Rusia, Turquía, Alemania, España e Italia juntos.
+        </p>
+      </div>
+      <div class="block2__footer">
+        <h3 class="footer__title">
+          La diabetes de segundo tipo conduce a complicaciones peligrosas:
+        </h3>
+        <ul class="footer__list wow fadeInDown">
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img1.webp" type="image/webp">
+                <img src="img/block2__img1.png" alt="foto" class="img__foto">
+              </picture>
+            </span>
+            <span class="item__text"> Derrame cerebral </span>
+          </li>
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img2.webp" type="image/webp">
+                <img src="img/block2__img2.png" alt="foto" class="img__foto">
+              </picture>
+            </span>
+            <span class="item__text"> Trastornos vasculares </span>
+          </li>
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img3.webp" type="image/webp">
+                <img src="img/block2__img3.png" alt="foto" class="img__foto">
+              </picture>
+            </span>
+            <span class="item__text"> Neuropatía </span>
+          </li>
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img4.webp" type="image/webp">
+                <img src="img/block2__img4.png" alt="foto" class="img__foto" loading="lazy">
+              </picture>
+            </span>
+            <span class="item__text"> Infarto de miocardio </span>
+          </li>
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img5.webp" type="image/webp">
+                <img src="img/block2__img5.png" alt="foto" class="img__foto" loading="lazy">
+              </picture>
+            </span>
+            <span class="item__text"> Nefropatía </span>
+          </li>
+          <li class="list__item">
+            <span class="item__img">
+              <picture>
+                <source srcset="img/block2__img6.webp" type="image/webp">
+                <img src="img/block2__img6.png" alt="foto" class="img__foto" loading="lazy">
+              </picture>
+            </span>
+            <span class="item__text"> Gangrena de pie </span>
+          </li>
+        </ul>
+      </div>
+      <h3 class="block2__subtitle" data-wow-delay=".5s">
+        ¡Si no se trata correctamente, la diabetes progresa!
+      </h3>
+    </div>
+  </div>
+  <div class="block block3">
+    <div class="wrapper flex">
+      <div class="block3__content">
+        <div class="content">
+          <h2 class="content__title">Experto:</h2>
+          <h3 class="content__subtitle">
+            "Una vida de plena <br>con diabetes de segundo tipo es posible"
+          </h3>
+        </div>
+        <p class="content__text">
+          Reducir bruscamente el nivel de azúcar en la sangre es
+          perjudicial para todos<br>
+          los órganos internos. Las fuertes fluctuaciones en los niveles
+          de glucosa <br>pueden causar graves problemas en los riñones,
+          <br>los vasos sanguíneos, los ojos, el corazón. <br>
+          Para evitar esto, es necesario controlar el nivel <br>de
+          azúcar y reducirlo lentamente.
+        </p>
+        <p class="content__text">
+          <span class="text__bold">Al tener diabetes de segundo tipo utilice solo productos
+            naturales <br>certificados hechos de ingredientes vegetales.<br></span>
+          Con estos prudoctos el nivel <br>de azúcar disminuye
+          lentamente y de forma estable.
+        </p>
+        <p class="content__text">
+          Al tener un nivel normal de azúcar y de insulina<br>
+          se siente menos hambre y menos sed. <br>
+          Y su bienestar y salud irán mejorando.
+        </p>
+      </div>
+    </div>
+  </div> 
+  <div class="block block4">
+    <div class="wrapper flex">
+      <h2 class="title">
+        3 efectos de
+        <span class="ib"><span class="color__blue"> Dia</span><span class="color__green">line</span></span>
+        para una vida de alta <br>calidad con diabetes de segundo tipo:
+      </h2>
+      <div class="block4__content">
+        <div class="content__left">
+          <div class="left__prod">
+            <span class="prod__el prod__el-1"></span>
+            <span class="prod__el prod__el-2"></span>
+            <span class="prod__el prod__el-3"></span>
+            <span class="prod__el prod__el-4"></span>
+            <picture>
+              <source media="(max-width: 767px)" srcset="img/prod_mob.webp" type="image/webp">
+              <source media="(max-width: 767px)" srcset="img/prod_mob.png">
+              <source srcset="img/prod.webp" type="image/webp">
+              <img src="img/prod.png" alt="" class="prod__img" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <div class="content__center">
+          <ul class="center__list">
+            <li class="list__item">
+              <div class="item__img item__img-1">
+                <picture>
+                  <source srcset="img/block4__img1.webp" type="image/webp">
+                  <img src="img/block4__img1.png" alt="foto" class="img__pic img__pic-1" loading="lazy">
+                </picture>
+              </div>
+              <div class="item__text wow fadeInDown">
+                <p class="text__title">
+                  Disminución del
+                  nivel<br> de azúcar en la sangre
+                </p>
+                <p class="text__p">
+                  Ayuda a convertir la glucosa <br>en energía y a
+                  producir<br>
+                  insulina cuando la glucosa contacta con la sangre
+                </p>
+              </div>
+            </li>
+            <li class="list__item">
+              <div class="item__img item__img-second item__img-2">
+                <picture>
+                  <source srcset="img/block4__img2.webp" type="image/webp">
+                  <img src="img/block4__img2.png" alt="foto" class="img__pic img__pic-2" loading="lazy">
+                </picture>
+              </div>
+              <div class="item__text wow fadeInDown">
+                <p class="text__title">
+                  Normalización del peso<br>
+                  y el metabolismo
+                </p>
+                <p class="text__p">
+                  Contribuye a la normalización <br>del apetito, reduce
+                  las ganas de comer dulces,<br>
+                  restaura el metabolismo
+                </p>
+              </div>
+            </li>
+            <li class="list__item">
+              <div class="item__img item__img-3">
+                <picture>
+                  <source srcset="img/block4__img3.webp" type="image/webp">
+                  <img src="img/block4__img3.png" alt="foto" class="img__pic img__pic-3" loading="lazy">
+                </picture>
+              </div>
+              <div class="item__text wow fadeInDown">
+                <p class="text__title">
+                  Recuperación
+                  de los<br> órganos internos
+                </p>
+                <p class="text__p">
+                  Mantiene el corazón, los riñones, los ojos,
+                  <br>los vasos sanguíneos <br>y tejidos en buen
+                  estado
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="content__right">
+          <form action="subscribe1.php" method="post" class="x_order_form right__form">
+            <div class="form__price">
+              <div class="price__old">
+                <p class="price__text">Precio viejo</p>
+                <span class="price__num price__num-old ib"><span class="x_price_previous">69800</span><span class="x_currency">clp</span></span>
+              </div>
+              <div class="price__line">
+                <span class="price__el">
+                  <span class="el__proc">50</span>
+                  <span class="el__proc">%</span>
+                </span>
+              </div>
+              <div class="price__new">
+                <p class="price__text">Precio nuevo</p>
+                <span class="price__num price__num-new ib"><span class="x_price_current">34900</span><span class="x_currency">clp</span></span>
+              </div>
+            </div>
+
+            <div class="form__name">
+              <input type="text" name="name" autocomplete="name" class="form__name__field" placeholder="Nombre" required>
+            </div>
+            <div class="form__tel">
+              <input type="tel" name="phone" autocomplete="tel" class="form__tel__field" placeholder="Teléfono" required>
+            </div>
+            <button type="submit" class="btn form__btn">
+              <span class="btn__text-1">Pedir</span>
+              <span class="btn__text-2">con descuento</span>
+            </button>
+          <input type="hidden" name="campaign_id" value="1496763"><input type="hidden" name="es_list_id" value=""><input type="hidden" name="chatbot_history" value="{}"><input type="hidden" name="sid5" value="{subid}"><input type="hidden" name="landing_id" value="12613"><input type="hidden" name="country_code" value="CL"></form>
+          <div class="form__security">
+            <img src="img/security.svg" alt="security" class="security__img" loading="lazy">
+            <span class="security__text">¡Sus datos están protegidos!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block block5">
+    <div class="wrapper flex">
+      <h2 class="title" data-wow-delay=".5s">
+        La eficacia de los componentes de
+        <span class="ib"><span class="color__blue">Dia</span><span class="color__green">line</span></span>
+        <br>
+        para el control de la diabetes ha sido confirmada más de una vez
+      </h2>
+      <div class="block5__header wow fadeInDown">
+        <div class="header__content ">
+          <div class="content__inner">
+            <div class="content__img">
+              <picture>
+                <source srcset="img/block5__img1.webp" type="image/webp">
+                <img src="img/block5__img1.png" alt="foto" class="img__pic" loading="lazy">
+              </picture>
+            </div>
+            <h3 class="content__title">Canela</h3>
+          </div>
+        </div>
+        <div class="header__content header__content-second">
+          <div class="content__inner">
+            <div class="content__img">
+              <picture>
+                <source srcset="img/block5__img2.webp" type="image/webp">
+                <img src="img/block5__img2.png" alt="foto" class="img__pic" loading="lazy">
+              </picture>
+            </div>
+            <h3 class="content__title">
+              Aloe vera
+            </h3>
+          </div>
+        </div>
+        <div class="header__content">
+          <div class="content__inner">
+            <div class="content__img">
+              <picture>
+                <source srcset="img/block5__img3.webp" type="image/webp">
+                <img src="img/block5__img3.png" alt="foto" class="img__pic" loading="lazy">
+              </picture>
+            </div>
+            <h3 class="content__title">Moringa</h3>
+          </div>
+        </div>
+      </div>
+      <div class="block5__footer wow fadeInDown">
+        <div class="footer__content footer__content-1">
+          <div class="content__wrap">
+            <div class="content__left">
+              <div class="left__img">
+                <picture>
+                  <source srcset="img/block5__book1.webp" type="image/webp">
+                  <img src="img/block5__book1.png" alt="book" class="img__book" loading="lazy">
+                </picture>
+              </div>
+            </div>
+            <div class="content__right">
+              <p class="right__des">
+                Nombre: Hypoglycemic activity of Pterocarpus marsupium wood.
+                <br>Revista: Journal of Ethnopharmacology, 1991, 35:71-5
+              </p>
+              <span class="right__el">
+                <picture>
+                  <source srcset="img/koma.webp" type="image/webp">
+                  <img src="img/koma.png" alt="koma" class="el img" loading="lazy">
+                </picture>
+              </span>
+              <h3 class="right__title">Canela</h3>
+              <p class="right__text">
+                reduce la absorción de glucosa en el tracto intestinal,
+                regula el contenido de la insulina<br>
+                y proinsulina, favorece la regeneración de las
+                células beta
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="footer__content footer__content-2">
+          <div class="content__wrap">
+            <div class="content__left">
+              <div class="left__img">
+                <picture>
+                  <source srcset="img/block5__book2.webp" type="image/webp">
+                  <img src="img/block5__book2.png" alt="book" class="img__book" loading="lazy">
+                </picture>
+              </div>
+            </div>
+            <div class="content__right">
+              <p class="right__des">
+                Nombre: Hypoglycemic and hypolipidemic effects of flavonoid
+                rich extract from Eugenia jambolana seeds. <br>Revista: Food
+                and Chemical Toxicology, 2008, 46:2376-83
+              </p>
+              <span class="right__el">
+                <picture>
+                  <source srcset="img/koma.webp" type="image/webp">
+                  <img src="img/koma.png" alt="koma" class="el img" loading="lazy">
+                </picture>
+              </span>
+              <h3 class="right__title">Aloe vera</h3>
+              <p class="right__text">
+                reduce la concentración de azúcar y de colesterol en
+                la sangre, tiene un efecto <br>estimulante sobre la
+                función del páncreas
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="footer__content footer__content-3">
+          <div class="content__wrap">
+            <div class="content__left">
+              <div class="left__img">
+                <picture>
+                  <source srcset="img/block5__book3.webp" type="image/webp">
+                  <img src="img/block5__book3.png" alt="book" class="img__book" loading="lazy">
+                </picture>
+              </div>
+            </div>
+            <div class="content__right">
+              <p class="right__des">
+                Nombre: Leaf extract of Gymnema sylvestre stimulate beta
+                cells regeneration and anti-diabetic activity. <br>
+                Revista: Phytomedicine, 2010, 17:1033–9
+              </p>
+              <span class="right__el">
+                <picture>
+                  <source srcset="img/koma.webp" type="image/webp">
+                  <img src="img/koma.png" alt="koma" class="el img" loading="lazy">
+                </picture>
+              </span>
+              <h3 class="right__title">Moringa</h3>
+              <p class="right__text">
+                contribuye a una mejor absorción de la glucosa en las
+                células, reduce el apetito y las ganas de comer dulces,
+                <br>estabiliza los niveles de lípidos en la sangre y
+                previene el desarrollo de enfermedades cardiovasculares.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block block6">
+    <div class="wrapper flex">
+      <h2 class="title" data-wow-delay=".5s">
+        La eficacia de
+        <span class="ib"><span class="color__blue">Dia</span><span class="color__green">line </span></span>
+        ha sido confirmada por investigaciones clínicas
+      </h2>
+      <h3 class="block6__subtitle">
+        Datos de un ensayo clínico doble ciego, aleatorizado y controlado
+        que duró 3 años
+      </h3>
+      <div class="block6__content">
+        <div class="content__left">
+          <ul class="left__list">
+            <li class="list__item">
+              <span class="item__el">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="el__img" loading="lazy">
+              </span>
+              <span class="item__text">
+                A largo plazo reduce el nivel <br>de azúcar
+                <span class="ib">en un 30-40%</span>
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__el">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="el__img" loading="lazy">
+              </span>
+              <span class="item__text">
+                Puede tomarse para el control <br>de la diabetes a lo largo
+                de 72 semanas
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__el">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="el__img" loading="lazy">
+              </span>
+              <span class="item__text">
+                No tiene efectos<br>
+                secundarios negativos
+              </span>
+            </li>
+          </ul>
+        </div>
+        <div class="content__right">
+          <div class="right__top">
+            <p class="top__title">Nivel de azúcar</p>
+            <p class="top__text">mmol /l</p>
+          </div>
+          <div class="right__mid">
+            <div class="mid__img">
+              <picture>
+                <source srcset="img/block6__img.webp" type="image/webp">
+                <img src="img/block6__img.png" alt="grafic" class="img__graf" loading="lazy">
+              </picture>
+            </div>
+          </div>
+          <div class="right__bottom">
+            <div class="bottom__inner">
+              <p class="bottom__title">Tiempo</p>
+              <p class="bottom__text">semanas</p>
+            </div>
+          </div>
+        </div>
+        <div class="content__bottom">
+          <p class="bottom__content bottom__content-1">
+            El nivel de glucosa en ayunas:
+            <span class="ib">9,4
+              <picture>
+                <source srcset="img/block6__arrow.webp" type="image/webp">
+                <img src="img/block6__arrow.png" alt="arrow" loading="lazy">
+              </picture>
+              7,0</span>
+          </p>
+          <p class="bottom__content bottom__content-2">
+            Nivel de glucosa después de comer:
+            <span class="ib">13,9 <picture>
+                <source srcset="img/block6__arrow.webp" type="image/webp">
+                <img src="img/block6__arrow.png" alt="arrow" loading="lazy">
+              </picture> 9,6</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div> 
+  <div class="block block7-5">
+    <div class="wrapper flex">
+      <form action="subscribe1.php" method="post" class="x_order_form right__form wow flipInX">
+        <div class="form__price">
+          <div class="price__old">
+            <p class="price__text">Precio viejo</p>
+            <span class="price__num price__num-old ib"><span class="x_price_previous">69800</span><span class="x_currency">clp</span></span>
+          </div>
+          <div class="price__line">
+            <span class="price__el">
+              <span class="el__proc">50</span>
+              <span class="el__proc">%</span>
+            </span>
+          </div>
+          <div class="price__new">
+            <p class="price__text">Precio nuevo</p>
+            <span class="price__num price__num-new ib"><span class="x_price_current">34900</span><span class="x_currency">clp</span></span>
+          </div>
+        </div>
+
+        <div class="form__name">
+          <input type="text" name="name" autocomplete="name" class="form__name__field" placeholder="Nombre" required>
+        </div>
+        <div class="form__tel">
+          <input type="tel" name="phone" autocomplete="tel" class="form__tel__field" placeholder="Teléfono" required>
+        </div>
+        <button type="submit" class="btn form__btn">
+          <span class="btn__text-1">Pedir</span>
+          <span class="btn__text-2">con descuento</span>
+        </button>
+      <input type="hidden" name="campaign_id" value="1496763"><input type="hidden" name="es_list_id" value=""><input type="hidden" name="chatbot_history" value="{}"><input type="hidden" name="sid5" value="{subid}"><input type="hidden" name="landing_id" value="12613"><input type="hidden" name="country_code" value="CL"></form>
+    </div>
+  </div>
+  <div class="block block8">
+    <div class="wrapper flex">
+      <h2 class="title">
+        Como tomar
+        <span class="ib"><span class="color__blue">Dia</span><span class="color__green">line</span></span>
+      </h2>
+      <div class="block8__content">
+        <div class="content__left">
+          <div class="left__product">
+            <picture>
+              <source media="(max-width: 767px)" srcset="img/prod_mob.webp" type="image/webp">
+              <source media="(max-width: 767px)" srcset="img/prod_mob.png">
+              <source srcset="img/prod.webp" type="image/webp">
+              <img src="img/prod.png" alt="product" class="product__img" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <div class="content__center">
+          <div class="center__img">
+            <picture>
+              <source media="(max-width: 479px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==">
+              <source srcset="img/block8__img.webp" type="image/webp">
+              <img src="img/block8__img.png" alt="skobka" class="img__pic" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <ul class="content__right wow fadeInDown">
+          <li class="right__item">
+            <div class="item__left">
+              <picture>
+                <source srcset="img/block8__pic1.webp" type="image/webp">
+                <img src="img/block8__pic1.png" alt="pic" class="left__ico" loading="lazy">
+              </picture>
+            </div>
+            <div class="item__text">
+              <span class="text__el text__el-blue"> </span>
+              <span class="text__p">
+                Tomar 3 cápsulas <br>con el desayuno
+              </span>
+            </div>
+          </li>
+          <li class="right__item">
+            <div class="item__left">
+              <picture>
+                <source srcset="img/block8__pic2.webp" type="image/webp">
+                <img src="img/block8__pic2.png" alt="pic" class="left__ico" loading="lazy">
+              </picture>
+            </div>
+            <div class="item__text">
+              <span class="text__el text__el-orange"> </span>
+              <span class="text__p">
+                Independientemente<br> de la alimentación
+              </span>
+            </div>
+          </li>
+          <li class="right__item">
+            <div class="item__left">
+              <picture>
+                <source srcset="img/block8__pic3.webp" type="image/webp">
+                <img src="img/block8__pic3.png" alt="pic" class="left__ico" loading="lazy">
+              </picture>
+            </div>
+            <div class="item__text">
+              <span class="text__el text__el-green"> </span>
+              <span class="text__p">
+                Ingesta máxima diaria: 1 ración <br>(no más de 3 cápsulas al día)
+              </span>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="block block9">
+    <div class="wrapper flex">
+      <h2 class="title">
+        Como encargar
+        <span class="ib"><span class="color__blue">Dia</span><span class="color__green">line</span></span>
+      </h2>
+      <div class="block9__content">
+        <div class="content__item">
+          <div class="item__img">
+            <div class="img__content">
+              <div class="form__name">
+                <div class="form__name__field">Nombre</div>
+              </div>
+              <div class="form__tel">
+                <div class="form__tel__field">Teléfono</div>
+              </div>
+              <div class="btn form__btn">
+                <span class="btn__text-1">Pedir</span>
+                <span class="btn__text-2">con descuento</span>
+              </div>
+            </div>
+            <span class="img__el img__el-blue"> </span>
+          </div>
+          <h2 class="item__title">Rellene el formulario de pedido</h2>
+          <p class="item__text">
+            Solo deberá indicar su nombre<br> y número de
+            teléfono.
+          </p>
+        </div>
+        <div class="content__animation content__animation-1">
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+        </div>
+        <div class="content__item">
+          <div class="item__img">
+            <picture>
+              <source srcset="img/block9__img2.webp" type="image/webp">
+              <img src="img/block9__img2.png" alt="" class="left__img-1" loading="lazy">
+            </picture>
+            <span class="img__el img__el-orange"> </span>
+          </div>
+          <h2 class="item__title">Conteste a la llamada del operador</h2>
+          <p class="item__text">
+            Él verificará su dirección y contestará
+            <br>todas sus preguntas sobre el producto.
+          </p>
+        </div>
+        <div class="content__animation content__animation-2" data-wow-delay=".5s">
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+          <span class="animation__arrow"></span>
+        </div>
+        <div class="content__item">
+          <div class="item__img">
+            <picture>
+              <source srcset="img/block9__img3.webp" type="image/webp">
+              <img src="img/block9__img3.png" alt="" class="left__img-1" loading="lazy">
+            </picture>
+            <span class="img__el img__el-green"> </span>
+          </div>
+          <h2 class="item__title">
+            Pague después de recibir el producto
+          </h2>
+          <p class="item__text">
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block block10">
+    <div class="wrapper flex">
+      <h2 class="title">
+        La diabetes aparece
+        <span class="color__green">sin importar </span><span class="ib"> si la quiere o no</span>
+      </h2>
+      <h3 class="block10__subtitle">
+        Pero su calidad de vida, solo
+        <span class="ib"><span class="color__green">depende </span>de usted.</span>
+      </h3>
+      <div class="block10__content">
+        <div class="content__left wow fadeIn" data-wow-delay="0.3s">
+          <picture>
+            <source srcset="img/block10__img1.webp" type="image/webp">
+            <img src="img/block10__img1.png" alt="foto" class="left__img" loading="lazy">
+          </picture>
+        </div>
+        <div class="content__center wow fadeIn" data-wow-delay="0.3s">
+          <picture>
+            <source media="(max-width: 479px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==">
+            <source srcset="img/block10__img2.webp" type="image/webp">
+            <img src="img/block10__img2.png" alt="foto" class="center__img" loading="lazy">
+          </picture>
+        </div>
+        <div class="content__right wow fadeIn" data-wow-delay="0.3s">
+          <picture>
+            <source srcset="img/block10__img3.webp" type="image/webp">
+            <img src="img/block10__img3.png" alt="foto" class="right__img" loading="lazy">
+          </picture>
+        </div>
+      </div>
+      <h3 class="block10__footer">
+        ¡Los productos naturales modernos para el control de la diabetes,
+        como Dialine, ayudan a reducir las<br>
+        manifestaciones negativas de la diabetes al mínimo y ayudan a vivir
+        la vida al máximo!
+      </h3>
+    </div>
+  </div>
+
+  <div class="block block1 block1-bottom">
+    <div class="wrapper flex">
+      <div class="block1__header" data-wow-delay=".5s">
+        <div class="header__left">
+          <div class="left__logo ib">
+            <picture>
+              <source srcset="img/logo.webp" type="image/webp">
+              <img src="img/logo.png" alt="logo" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <div class="header__right">
+          <ul class="right__list">
+            <li class="list__item">
+              <span class="item__img item__img-blue">
+                <img src="img/block1__img1.svg" alt="pic" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                Reduce el riesgo de <br>infarto y derrame cerebral
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img item__img-orange">
+                <img src="img/block1__img2.svg" alt="pic" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                Protege de la<br>
+                insuficiencia renal
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img item__img-green">
+                <img src="img/block1__img3.svg" alt="pic" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                Impide la aparición<br> de la ceguera
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="block1__footer">
+        <div class="footer__left">
+          <h2 class="left__title">
+            <span class="color__green">Elimina las complicaciones</span>
+            <span class="color__blue">y facilita la vida con la diabetes</span>
+          </h2>
+          <ul class="left__list">
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Evita los aumentos de azúcar,</span>
+                <br>mejora el bienestar <br>durante todo el día
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Procesa la glucosa en energía, </span><br>protegiendo los órganos
+                internos y los <br>vasos
+                de la destrucción
+              </span>
+            </li>
+            <li class="list__item">
+              <span class="item__img">
+                <img src="img/check.svg" width="28" height="28" alt="check" class="img__pic" loading="lazy">
+              </span>
+              <span class="item__text">
+                <span class="text__bold">Establece el metabolismo<br>
+                  y reduce el peso,</span>
+                ayudando a resolver la causa principal de la diabetes
+              </span>
+            </li>
+          </ul>
+        </div>
+        <div class="footer__center">
+          <div class="center__prod">
+            <picture>
+              <source media="(max-width: 767px)" srcset="img/prod_mob.webp" type="image/webp">
+              <source media="(max-width: 767px)" srcset="img/prod_mob.png">
+              <source srcset="img/prod.webp" type="image/webp">
+              <img src="img/prod.png" alt="prod" class="prod__img" loading="lazy">
+            </picture>
+          </div>
+        </div>
+        <div class="footer__right">
+          <form action="subscribe1.php" method="post" class="x_order_form right__form">
+            <div class="form__price">
+              <div class="price__old">
+                <p class="price__text">Precio viejo</p>
+                <span class="price__num price__num-old ib"><span class="x_price_previous">69800</span><span class="x_currency">clp</span></span>
+              </div>
+              <div class="price__line">
+                <span class="price__el">
+                  <span class="el__proc">50</span>
+                  <span class="el__proc">%</span>
+                </span>
+              </div>
+              <div class="price__new">
+                <p class="price__text">Precio nuevo</p>
+                <span class="price__num price__num-new ib"><span class="x_price_current">34900</span><span class="x_currency">clp</span></span>
+              </div>
+            </div>
+
+            <div class="form__name">
+              <input type="text" name="name" autocomplete="name" class="form__name__field" placeholder="Nombre" required>
+            </div>
+            <div class="form__tel">
+              <input type="tel" name="phone" autocomplete="tel" class="form__tel__field" placeholder="Teléfono" required>
+            </div>
+            <button type="submit" class="btn form__btn">
+              <span class="btn__text-1">Pedir</span>
+              <span class="btn__text-2">con descuento</span>
+            </button>
+          <input type="hidden" name="campaign_id" value="1496763"><input type="hidden" name="es_list_id" value=""><input type="hidden" name="chatbot_history" value="{}"><input type="hidden" name="sid5" value="{subid}"><input type="hidden" name="landing_id" value="12613"><input type="hidden" name="country_code" value="CL"></form>
+          <div class="form__security">
+            <img src="img/security.svg" alt="security" class="security__img" loading="lazy">
+            <span class="security__text">¡Sus datos están protegidos!</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block block12">
+    <div class="wrapper flex">
+      <div class="ev-footer create_rom_footer" data-background-color="#fff" data-color_link="#444" data-color_logo="orange" style="font-family: 'inherit'"></div>
+    </div>
+  </div>
+
+  <div class="ever-popup-build">
+    <div class="block popup" id="cloneThis">
+      <div class="inner__wrap">
+        <div class="popup__container">
+          <div class="popup__left">
+            <div class="left__product">
+              <picture>
+                <source media="(max-width: 767px)" srcset="img/prod_mob.webp" type="image/webp">
+                <source media="(max-width: 767px)" srcset="img/prod_mob.png">
+                <source srcset="img/prod.webp" type="image/webp">
+                <img src="img/prod.png" alt="product" class="left__product__img" loading="lazy">
+              </picture>
+            </div>
+          </div>
+          <div class="content__right">
+            <form action="subscribe1.php" method="post" class="x_order_form right__form">
+              <div class="form__price">
+                <div class="price__old">
+                  <p class="price__text">Precio viejo</p>
+                  <span class="price__num price__num-old ib"><span class="x_price_previous">69800</span><span class="x_currency">clp</span></span>
+                </div>
+                <div class="price__line">
+                  <span class="price__el">
+                    <span class="el__proc">50</span>
+                    <span class="el__proc">%</span>
+                  </span>
+                </div>
+                <div class="price__new">
+                  <p class="price__text">Precio nuevo</p>
+                  <span class="price__num price__num-new ib"><span class="x_price_current">34900</span><span class="x_currency">clp</span></span>
+                </div>
+              </div>
+
+              <div class="form__name">
+                <input type="text" name="name" autocomplete="name" class="form__name__field" placeholder="Nombre" required>
+              </div>
+              <div class="form__tel">
+                <input type="tel" name="phone" autocomplete="tel" class="form__tel__field" placeholder="Teléfono" required>
+              </div>
+              <button type="submit" class="btn form__btn">
+                <span class="btn__text-1">Pedir</span>
+                <span class="btn__text-2">con descuento</span>
+              </button>
+            <input type="hidden" name="campaign_id" value="1496763"><input type="hidden" name="es_list_id" value=""><input type="hidden" name="chatbot_history" value="{}"><input type="hidden" name="sid5" value="{subid}"><input type="hidden" name="landing_id" value="12613"><input type="hidden" name="country_code" value="CL"></form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <script src="js/slick.min.js"></script>
+  <script src="js/main.js"></script>
+  
+  <script src="https://179523.selcdn.ru/public/layout-images/eu-footer2.js"></script>
+  <script defer src="https://179523.selcdn.ru/public/delivery-banner/banner.js"></script>
+
+
+<script>
+				window.lang = 'es';
+				window.is_downloaded_from_dashboard = true;
+				window.duplicate_order_phone = '34944340466';
+				window.order_recently_confirmed =
+					'Su pedido ya se ha realizado';
+				window.order_in_progress =
+					'Su pedido ya se ha realizado, si tiene preguntas sobre el producto, 			puede comunicarse con el número';
+				window.order_got_it =
+					'Ok';
+				window._locations = [{"offer_id":"682","country_code":"CL","price_current":34900,"display_priority":0,"id":3895114,"name":"Chile","type":"country","country_id":3895114,"region_name":null,"currency":"clp","country_name":"Chile","price_previous":69800,"price_delivery":0,"price_total":34900}];
+				window.additional_phone_in_downloaded = false;
+				window.is_namephone_validated = true;
+				document.cookie = 'popup_customers_enabled=true;path=/';
+				document.cookie = 'popup_callback_enabled=true;path=/';
+				document.cookie = 'popup_mouseout_enabled=true;path=/';
+				window.country_code = 'CL';
+			</script><script>var cookies = (function(a) {
+	if (a == "") return {};
+	var b = {};
+	for (var i = 0; i < a.length; ++i) {
+		var p=a[i].split('=');
+		if (p.length != 2) continue;
+		b[p[0]] = p[1];
+	}
+
+	return b;
+})(document.cookie.split('; '));
+
+//для клонирования блока в попап используются следующие айдишники
+// #cloneThis - для десктопа
+// #cloneMobileThis - для мобильного (если нужно)
+//брейкпоинт для переключения попапа при необходимости дефолт значение = 1000
+
+// в случае, если мы не клонируем форму, а верстаем попап произвольно,
+// то делать это необходимо в контейнере с классом .ever-popup-build
+// false (показывать контейнер) / true (не показывать контейнер)
+
+var popupBuild = true; // false/true
+
+
+//.ever-popup-btn - класс для для открытия попапа
+
+//проверка кода
+//.check__field - класс для поля проверки кода
+//.check__btn - класс для кнопки провеки кода
+//.check__result - класс для контейнера с результатом проверки кода
+
+//таймер
+//для вывода счетчика таймера используется 3 контенера (часы, минуты, секунды)
+//.hours класс для вывода часов
+//.minutes класс для вывода минут
+//.seconds класс для вывода секунд
+
+function initiate(cookies) {
+
+	var breakpoint = 1000;
+	var desktop = document.querySelector('#cloneThis');
+	var mobile = document.querySelector('#cloneMobileThis');
+
+	if (popupBuild) {
+		// в случае, если мы верстаем попап в контейнере .ever-popup-build, даное условие прячет его, если значение переменной popupBuild = true
+		var style = document.createElement('style');
+		style.innerHTML = '.ever-popup-build{position: fixed; opacity: 0;z-index: -1; top: 0; left: -9999px;}';
+		document.querySelector('head').appendChild(style)
+	}
+
+	function addPopupStyle() {
+		// добавляем стили для нашего поапа
+		var cont = document.createElement('style'),
+			head = document.querySelector('head');
+		cont.innerHTML = '.ever-popup__body.ever-mobile{display:none}.ever-popup{position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,.7);z-index: 111;display: none;overflow: auto;}.ever-popup__body{position: static;float: none;display: block;margin: 0 auto;width:auto}.ever-popup.show{display: block;align-items: center;}.ever-popup__inner{position: relative;margin: 0 auto;padding-top:35px}.ever-popup__close{width: 35px;height: 30px;position: absolute;cursor:pointer;top: 0;right: 0;z-index: 1;-webkit-transition: .3s; -moz-transition: .3s; -ms-transition: .3s; -o-transition: .3s; transition: .3s;}.ever-popup__close:after, .ever-popup__close:before {content: "";position: absolute;right: 0;top: 10px;width: 35px;height: 10px;background: #fff;transition: all 1s;}.ever-popup__close:after {-webkit-transform: rotate(-45deg);-ms-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform: rotate(-45deg);}.ever-popup__close:before {-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);}' +
+			'@media screen and (min-width: ' + breakpoint + 'px' + '){' +
+			'.ever-popup__body.ever-desktop{display:none}' +
+			'.ever-popup__body.ever-mobile{display:block}' +
+			'}';
+		head.appendChild(cont)
+	}
+	function addMobilePopupStyle() {
+		// добавляем стили для нашего поапа
+		var cont = document.createElement('style'),
+			head = document.querySelector('head');
+		cont.innerHTML = '@media screen and (min-width: ' + breakpoint + 'px' + ') {.ever-popup {position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0, 0, 0, .7);z-index: 111;display: none;overflow: auto;}.ever-popup__body {position: static;float: none;display: block;margin: 0 auto;width: auto}.ever-popup.show {display: block;align-items: center;}.ever-popup__inner {position: relative;margin: 0 auto;padding-top: 35px}.ever-popup__close {width: 35px;height: 30px;position: absolute;cursor: pointer;top: 0;right: 0;z-index: 1;-webkit-transition: .3s;-moz-transition: .3s;-ms-transition: .3s;-o-transition: .3s;transition: .3s;}.ever-popup__close:after, .ever-popup__close:before {content: "";position: absolute;right: 0;top: 10px;width: 35px;height: 10px;background: #fff;transition: all 1s;}.ever-popup__close:after {-webkit-transform: rotate(-45deg);-ms-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform: rotate(-45deg);}.ever-popup__close:before {-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);}}';
+		head.appendChild(cont)
+	}
+
+	function createOverlay() {
+		// создаем затемненный фон для попапа и вставляем его в разметку html
+		var parent = document.createElement('div'),
+			parentInner = document.createElement('div'),
+			closeParent = document.createElement('div');
+
+		parent.classList.add('ever-popup');
+		parentInner.classList.add('ever-popup__inner');
+		closeParent.classList.add('ever-popup__close');
+
+		parent.appendChild(parentInner);
+		parentInner.appendChild(closeParent);
+		document.body.appendChild(parent);
+	}
+
+	function createModalBody(breakpoint) {
+		// функция определяет содержимое для попапа, клонирует его содержимое, и поещает в контейнер ever-popup__body
+		var parent = document.querySelector('.ever-popup__inner');
+		if (desktop) {
+			var desktopClone = desktop.cloneNode(true);
+			desktopClone.classList.add('ever-popup__body');
+			desktopClone.removeAttribute('id');
+			parent.appendChild(desktopClone);
+			document.querySelector('.ever-popup .ever-popup__inner').style.width = document.querySelector('#cloneThis').offsetWidth + 'px';
+		}
+
+		if (mobile) {
+			var mobileClone = mobile.cloneNode(true);
+			if (desktopClone) {
+				desktopClone.classList.add('ever-desktop');
+			}
+			mobileClone.classList.add('ever-popup__body');
+			mobileClone.classList.add('ever-mobile');
+			mobileClone.removeAttribute('id');
+			parent.appendChild(mobileClone);
+			var mobileStyles = '.ever-desktop{display: block}.ever-mobile{display: none}@media screen and (min-width: ' + breakpoint + 'px){.ever-mobile{display: block}.ever-desktop{display: none;}}';
+
+			var mobileStylesContainer = document.createElement('style');
+			mobileStylesContainer.innerHTML = mobileStyles;
+			document.querySelector('head').appendChild(mobileStylesContainer)
+			document.querySelector('.ever-popup .ever-popup__inner').style.width = document.querySelector('#cloneMobileThis').offsetWidth + 'px';
+		}
+
+
+	}
+
+	function modalPosition(screenHeight) {
+		//расчет ширины и вывод ее в html, функция вызывается при загрузке страницы, а так же при ресайзе
+		var container = document.querySelector('.ever-popup  .ever-popup__inner');
+		if (container) {
+
+			var desktop = document.querySelector('#cloneThis'),
+				mobile = document.querySelector('#cloneMobileThis');
+
+			if (desktop) {
+				if (window.innerWidth >= breakpoint) {
+					checkPosition(desktop, container, screenHeight);
+					container.style.width = desktop.offsetWidth + 'px';
+				}
+				if (!mobile) {
+					checkPosition(desktop, container, screenHeight);
+					container.style.width = desktop.offsetWidth + 'px';
+				}
+			}
+			if (mobile) {
+				if (window.innerWidth <= breakpoint) {
+					checkPosition(mobile, container, screenHeight);
+					container.style.width = mobile.offsetWidth + 'px';
+				}
+			}
+		}
+	}
+
+	function checkPosition(selector, container, screenHeight) {
+		//позиционирование попапа по вертикали
+		var cont = selector,
+			contHeight = cont.offsetHeight;
+
+		if (contHeight > screenHeight) {
+			container.style.margin = '40px auto';
+		}
+		else {
+			var top = (screenHeight - contHeight) / 2;
+			container.style.margin = top + 'px auto 20px';
+		}
+	}
+
+	function showPopup() {
+		//функция для показа попапа
+		var popup = document.querySelector('.ever-popup');
+		popup.classList.add('show')
+	}
+
+	function hidePopup() {
+		//функция для скрытия попапа
+		var popup = document.querySelector('.ever-popup');
+		popup.classList.remove('show')
+	}
+
+	function notHide(e) {
+		//функция для прерывания выполнения сценария по клику
+		e.stopPropagation()
+	}
+
+	function checkCode(event) {
+		// проверка кода подлинности
+		event.preventDefault();
+
+		var code = document.querySelector(".check__field").value,
+			msg = document.querySelector(".check__result");
+
+		if (code.length === 15) {
+			msg.innerHTML = window.codeCorrect;
+		}
+		else if (code.length === 0) {
+			msg.innerHTML = window.codeEmpty;
+		} else {
+			msg.innerHTML = window.codeInvalid;
+		}
+	}
+	if (cookies['popup_mouseout_enabled'] == 'true') {
+		var mouseOutCount = 0;
+		document.body.addEventListener('mouseleave', function (event) {
+			//событие на увод мышки со страницы. если мышка уходит за верхнюю границу документа, вызывается попап
+			var e = event || window.event;
+			e = e.clientY;
+			var popup = document.querySelector('.ever-popup');
+
+			if (popup && e < 10 && mouseOutCount === 0) {
+				popup.classList.add('show');
+				mouseOutCount++;
+			}
+		});
+	}
+	function addPhoneBtn(breakpoint) {
+		// добавление синей трубки для вызова попапа на десктопе
+		var phoneBtnContainer = document.createElement('div');
+		phoneBtnContainer.classList.add('phoneBtnContainer');
+		phoneBtnContainer.innerHTML = '<div class="bluePhone"><div class=" phone-call cbh-phone cbh-green cbh-show ever-popup-btn cbh-static" id="clbh_phone_div"><div class="phoneJs"><div class="cbh-ph-circle"></div><div class="cbh-ph-circle-fill"></div><div class="cbh-ph-img-circle1"></div></div></div></div>';
+		document.body.appendChild(phoneBtnContainer);
+
+		var phoneStyles = document.createElement('style');
+		phoneStyles.innerHTML = '@media screen and (min-width: ' + breakpoint + 'px) {.phoneBtnContainer{position:fixed; right: 10px;bottom: 10px; visibility:hidden;background-color:transparent;width:200px;height:200px;cursor:pointer;z-index:99;-webkit-backface-visibility:hidden;-webkit-transform:translateZ(0);-webkit-transition:visibility .5s;-moz-transition:visibility .5s;-o-transition:visibility .5s;transition:visibility .5s}.cbh-phone.cbh-show{visibility:visible}@-webkit-keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInRight{0%{opacity:0;-webkit-transform:translate3d(100%,0,0);-ms-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{opacity:1;-webkit-transform:none;-ms-transform:none;transform:none}}@-webkit-keyframes fadeInRightBig{0%{opacity:0;-webkit-transform:translate3d(2000px,0,0);transform:translate3d(2000px,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@-webkit-keyframes fadeOutRight{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}@keyframes fadeOutRight{0%{opacity:1}100%{opacity:0;-webkit-transform:translate3d(100%,0,0);-ms-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}}.fadeOutRight{-webkit-animation-name:fadeOutRight;animation-name:fadeOutRight}.cbh-phone.cbh-static1{opacity:.6}.cbh-phone.cbh-hover1{opacity:1}.cbh-ph-circle{width:160px;height:160px;top:20px;left:20px;position:absolute;background-color:transparent;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;border:2px solid rgba(30,30,30,.4);opacity:.1;-webkit-animation:cbh-circle-anim 1.2s infinite ease-in-out;-moz-animation:cbh-circle-anim 1.2s infinite ease-in-out;-ms-animation:cbh-circle-anim 1.2s infinite ease-in-out;-o-animation:cbh-circle-anim 1.2s infinite ease-in-out;animation:cbh-circle-anim 1.2s infinite ease-in-out;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s}.cbh-phone.cbh-active .cbh-ph-circle1{-webkit-animation:cbh-circle-anim 1.1s infinite ease-in-out!important;-moz-animation:cbh-circle-anim 1.1s infinite ease-in-out!important;-ms-animation:cbh-circle-anim 1.1s infinite ease-in-out!important;-o-animation:cbh-circle-anim 1.1s infinite ease-in-out!important;animation:cbh-circle-anim 1.1s infinite ease-in-out!important}.cbh-phone.cbh-static .cbh-ph-circle{-webkit-animation:cbh-circle-anim 2.2s infinite ease-in-out!important;-moz-animation:cbh-circle-anim 2.2s infinite ease-in-out!important;-ms-animation:cbh-circle-anim 2.2s infinite ease-in-out!important;-o-animation:cbh-circle-anim 2.2s infinite ease-in-out!important;animation:cbh-circle-anim 2.2s infinite ease-in-out!important}.cbh-phone.cbh-hover .cbh-ph-circle{border-color:rgba(0,175,242,1);opacity:.5}.cbh-phone.cbh-green.cbh-hover .cbh-ph-circle{border-color:rgba(117,235,80,1);opacity:.5}.cbh-phone.cbh-green .cbh-ph-circle{border-color:rgba(0,175,242,1);opacity:.5}.cbh-phone.cbh-gray.cbh-hover .cbh-ph-circle{border-color:rgba(204,204,204,1);opacity:.5}.cbh-phone.cbh-gray .cbh-ph-circle{border-color:rgba(117,235,80,1);opacity:.5}.cbh-ph-circle-fill{width:100px;height:100px;top:50px;left:50px;position:absolute;background-color:#000;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;border:2px solid transparent;opacity:.1;-webkit-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out;-moz-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out;-ms-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out;-o-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out;animation:cbh-circle-fill-anim 2.3s infinite ease-in-out;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s}.cbh-phone.cbh-active .cbh-ph-circle-fill{-webkit-animation:cbh-circle-fill-anim 1.7s infinite ease-in-out!important;-moz-animation:cbh-circle-fill-anim 1.7s infinite ease-in-out!important;-ms-animation:cbh-circle-fill-anim 1.7s infinite ease-in-out!important;-o-animation:cbh-circle-fill-anim 1.7s infinite ease-in-out!important;animation:cbh-circle-fill-anim 1.7s infinite ease-in-out!important}.cbh-phone.cbh-static .cbh-ph-circle-fill{-webkit-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out!important;-moz-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out!important;-ms-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out!important;-o-animation:cbh-circle-fill-anim 2.3s infinite ease-in-out!important;animation:cbh-circle-fill-anim 2.3s infinite ease-in-out!important;opacity:0!important} .cbh-phone.cbh-hover .cbh-ph-circle-fill{background-color:rgba(0,175,242,.5);opacity:.75!important}.cbh-phone.cbh-green.cbh-hover .cbh-ph-circle-fill{background-color:rgba(117,235,80,.5);opacity:.75!important}.cbh-phone.cbh-green .cbh-ph-circle-fill{background-color:rgba(0,175,242,.5);opacity:.75!important}.cbh-phone.cbh-gray.cbh-hover .cbh-ph-circle-fill{background-color:rgba(204,204,204,.5);opacity:.75!important}.cbh-phone.cbh-gray .cbh-ph-circle-fill{background-color:rgba(117,235,80,.5);opacity:.75!important}.cbh-ph-img-circle1{width:60px;height:60px;top:70px;left:70px;position:absolute;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarY6xSsNQFEDPi6LiUCsEcXB4kygotupgxqQtRRCs1SHJ1qShSmkSXl7VfoSjWwcXd7/AyVFwUPwC/0Bx6uAQIYODCJ7p3MPlcsGo2HWnYZRhEGvVbjrS9Xw5+8QMUwDQCbPUbrUOAOIkjvjB5ysC4HnTrjsN/sZ8mCoNTIDtbpSFICpA/0KnGsQYMIN+qkHcAaY6addAPAClXu4vQCnI/Q0oKdfzQXwAZs/1fDDmADPIfQUwdXSpAWpJOlJnvVMtq5ZlSbubBJE8HmU6GmRyPw4TlSaqo6MukP8HwGK+2G46cq1qWXvr/DOu58vc3o8QgFh6LFpBOFTn3yqMnd/n4sZ4GQ5vYXpStN0ruNmAheuirVahvAX34y/Axk/96FpPYgAAACBjSFJNAAB6JQAAgIMAAPn/AACA6AAAUggAARVYAAA6lwAAF2/XWh+QAAAB/ElEQVR42uya7W3CMBCG31QM4A1aNggTlG6QbpBMkHYC1AloJ4BOABuEDcgGtBOETnD9c1ERCH/lwxeaV8oPFGP86Hy+DxMREW5Bd7gRjSDSNGn4/RiAOvm8C0ZCRD5PSkQVXSr1nK/xE3mcWimA1ZV3JYBZCIO4giQANoYxMwYS6+xKY4lT5dJPreWZY+uspqSCKPYN27GJVBDXheVSQe494ksiEWTuMXcu1dld9SARxDX1OAJ4lgjy4zDnFsC076A4adEiRwAZg4hOUSpNoCsBPDGM+HqkNGynYBCuILuWj+dgWysGsNe8nwL4GsrW0m2fxZBq9rW0rNcX5MOQ9eZD8JFahcG5g/iKT671alGAYQggpYWvpEPYWrU/HDTOfeRIX0q2SL3QN4tGhZJukVobQyXYWw7WtLDKDIuM+ZSzscyCE9PCy5IttCvnZNaeiGLNHKuz8ZVh/MXTVu/1xQKmIqLEAuJ0fNo3iG5B51oSkeKnsBi/4bG9gYB/lCytU5G9DryFW+3Gm+JLwU7ehbJrwTjq4DJU8bHcVbEV9dXXqqP6uqO5e2/QZRYJpqu2IUAA4B3tXvx8hgKp05QZW6dJqrLTNkB6vrRURLRwPHqtYgkC3cLWQAcDQGGKH13FER/NATzi786+BPDNjm1dMkfjn2pGkBHkf4D8DgBJDuDHx9BN+gAAAABJRU5ErkJggg==);background-color:rgba(30,30,30,.1);background-position:center center;background-repeat:no-repeat;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;border:2px solid transparent;opacity:.7;-webkit-animation:cbh-circle-img-anim 1s infinite ease-in-out;-moz-animation:cbh-circle-img-anim 1s infinite ease-in-out;-ms-animation:cbh-circle-img-anim 1s infinite ease-in-out;-o-animation:cbh-circle-img-anim 1s infinite ease-in-out;animation:cbh-circle-img-anim 1s infinite ease-in-out}.cbh-phone.cbh-active .cbh-ph-img-circle1{-webkit-animation:cbh-circle-img-anim 1s infinite ease-in-out!important;-moz-animation:cbh-circle-img-anim 1s infinite ease-in-out!important;-ms-animation:cbh-circle-img-anim 1s infinite ease-in-out!important;-o-animation:cbh-circle-img-anim 1s infinite ease-in-out!important;animation:cbh-circle-img-anim 1s infinite ease-in-out!important}.cbh-phone.cbh-static .cbh-ph-img-circle1{-webkit-animation:cbh-circle-img-anim 0s infinite ease-in-out!important;-moz-animation:cbh-circle-img-anim 0s infinite ease-in-out!important;-ms-animation:cbh-circle-img-anim 0s infinite ease-in-out!important;-o-animation:cbh-circle-img-anim 0s infinite ease-in-out!important;animation:cbh-circle-img-anim 0s infinite ease-in-out!important}.cbh-phone.cbh-hover .cbh-ph-img-circle1{background-color:rgba(0,175,242,1)}.cbh-phone.cbh-green.cbh-hover .cbh-ph-img-circle1:hover{background-color:rgba(117,235,80,1)}.cbh-phone.cbh-green .cbh-ph-img-circle1{background-color:rgba(0,175,242,1)}.cbh-phone.cbh-green .cbh-ph-img-circle1{background-color:rgba(0,175,242,1)}.cbh-phone.cbh-gray.cbh-hover .cbh-ph-img-circle1{background-color:rgba(204,204,204,1)}.cbh-phone.cbh-gray .cbh-ph-img-circle1{background-color:rgba(117,235,80,1)}@-moz-keyframes cbh-circle-anim{0%{-moz-transform:rotate(0deg) scale(0.5) skew(1deg);opacity:.1;-moz-opacity:.1;-webkit-opacity:.1;-o-opacity:.1}30%{-moz-transform:rotate(0deg) scale(.7) skew(1deg);opacity:.5;-moz-opacity:.5;-webkit-opacity:.5;-o-opacity:.5}100%{-moz-transform:rotate(0deg) scale(1) skew(1deg);opacity:.6;-moz-opacity:.6;-webkit-opacity:.6;-o-opacity:.1}}@-webkit-keyframes cbh-circle-anim{0%{-webkit-transform:rotate(0deg) scale(0.5) skew(1deg);-webkit-opacity:.1}30%{-webkit-transform:rotate(0deg) scale(.7) skew(1deg);-webkit-opacity:.5}100%{-webkit-transform:rotate(0deg) scale(1) skew(1deg);-webkit-opacity:.1}}@-o-keyframes cbh-circle-anim{0%{-o-transform:rotate(0deg) kscale(0.5) skew(1deg);-o-opacity:.1}30%{-o-transform:rotate(0deg) scale(.7) skew(1deg);-o-opacity:.5}100%{-o-transform:rotate(0deg) scale(1) skew(1deg);-o-opacity:.1}}@keyframes cbh-circle-anim{0%{transform:rotate(0deg) scale(0.5) skew(1deg);opacity:.1}30%{transform:rotate(0deg) scale(.7) skew(1deg);opacity:.5}100%{transform:rotate(0deg) scale(1) skew(1deg);opacity:.1}}@-moz-keyframes cbh-circle-fill-anim{0%{-moz-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}50%{-moz-transform:rotate(0deg) -moz-scale(1) skew(1deg);opacity:.2}100%{-moz-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}}@-webkit-keyframes cbh-circle-fill-anim{0%{-webkit-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}50%{-webkit-transform:rotate(0deg) scale(1) skew(1deg);opacity:.2}100%{-webkit-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}}@-o-keyframes cbh-circle-fill-anim{0%{-o-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}50%{-o-transform:rotate(0deg) scale(1) skew(1deg);opacity:.2}100%{-o-transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}}@keyframes cbh-circle-fill-anim{0%{transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}50%{transform:rotate(0deg) scale(1) skew(1deg);opacity:.2}100%{transform:rotate(0deg) scale(0.7) skew(1deg);opacity:.2}}@keyframes cbh-circle-img-anim{0%{transform:rotate(0deg) scale(1) skew(1deg)}10%{transform:rotate(-25deg) scale(1) skew(1deg)}20%{transform:rotate(25deg) scale(1) skew(1deg)}30%{transform:rotate(-25deg) scale(1) skew(1deg)}40%{transform:rotate(25deg) scale(1) skew(1deg)}100%,50%{transform:rotate(0deg) scale(1) skew(1deg)}}@-moz-keyframes cbh-circle-img-anim{0%{transform:rotate(0deg) scale(1) skew(1deg)}10%{-moz-transform:rotate(-25deg) scale(1) skew(1deg)}20%{-moz-transform:rotate(25deg) scale(1) skew(1deg)}30%{-moz-transform:rotate(-25deg) scale(1) skew(1deg)}40%{-moz-transform:rotate(25deg) scale(1) skew(1deg)}100%,50%{-moz-transform:rotate(0deg) scale(1) skew(1deg)}}@-webkit-keyframes cbh-circle-img-anim{0%{-webkit-transform:rotate(0deg) scale(1) skew(1deg)}10%{-webkit-transform:rotate(-25deg) scale(1) skew(1deg)}20%{-webkit-transform:rotate(25deg) scale(1) skew(1deg)}30%{-webkit-transform:rotate(-25deg) scale(1) skew(1deg)}40%{-webkit-transform:rotate(25deg) scale(1) skew(1deg)}100%,50%{-webkit-transform:rotate(0deg) scale(1) skew(1deg)}}@-o-keyframes cbh-circle-img-anim{0%{-o-transform:rotate(0deg) scale(1) skew(1deg)}10%{-o-transform:rotate(-25deg) scale(1) skew(1deg)}20%{-o-transform:rotate(25deg) scale(1) skew(1deg)}30%{-o-transform:rotate(-25deg) scale(1) skew(1deg)}40%{-o-transform:rotate(25deg) scale(1) skew(1deg)}100%,50%{-o-transform:rotate(0deg) scale(1) skew(1deg)}}.cbh-ph-img-circle1 {}.cbh-phone.cbh-green .cbh-ph-circle {border-color: rgba(0, 175, 242, 1)}.cbh-phone.cbh-green .cbh-ph-circle-fill {background-color: rgba(0, 175, 242, 1);}.cbh-phone.cbh-green .cbh-ph-img-circle1 {background-color:rgba(0, 175, 242, 1);}body, div, dl, dt, dd, ul, ol, li, nav, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, a {-webkit-transform-origin: center center;-ms-transform-origin: center center;-o-transform-origin: center center;transform-origin: center center;}}';
+		document.querySelector('head').appendChild(phoneStyles);
+		document.querySelector('.phoneBtnContainer').addEventListener('click', showPopup);
+	}
+
+	function init() {
+
+		var desktopPopup = document.querySelector('#cloneThis'),
+			mobilePopup = document.querySelector('#cloneMobileThis');
+		var h = document.querySelector('.hours'), m = document.querySelector('.minutes'),
+			s = document.querySelector('.seconds');
+
+		if (h && m && s) {
+			// если все значения (часы/минуты/секунды) сущесвтуют, тогда срабатывает таймер
+			initializeTimer();
+		}
+		if (desktopPopup) {
+			createOverlay();
+			addPopupStyle();
+			if (cookies['popup_callback_enabled'] == 'true' || location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+				addPhoneBtn(breakpoint);
+			}
+		}
+		else {
+			createOverlay();
+			addMobilePopupStyle()
+		}
+		if (desktopPopup || mobilePopup) {
+			//если у нас есть #cloneThis или #cloneMobileThis, тогда все функции ниже выполняются
+
+			createModalBody(breakpoint);
+			modalPosition(window.innerHeight);
+
+			document.addEventListener('click', function(e) {
+				if (e.target === document.querySelector('.ever-popup') ||
+						e.target === document.querySelector('.ever-popup__close')) {
+						hidePopup();
+				}
+		});
+			document.addEventListener('keydown', function(e) {
+				if (e.keyCode === 27) {
+						hidePopup();
+				}
+		});
+
+			var modalBtn = document.querySelectorAll('.ever-popup-btn');
+			for (var i = 0; i < modalBtn.length; i++) {
+				modalBtn && modalBtn[i].addEventListener('click', function () {
+                    showPopup();
+					modalPosition(window.innerHeight)
+                });
+			}
+		}
+		// рабоатет если у нас есть класс .check__btn
+		var checkBtn = document.querySelector(".check__btn");
+		checkBtn && checkBtn.addEventListener('click', checkCode);
+	}
+
+	init();
+
+	window.addEventListener('resize', function () {
+		//при ресайзе пересчитываем позиционирование модального окна
+		modalPosition(window.innerHeight);
+	});
+
+    function initializeTimer() {
+        // Додади клас "timer-different" для <body>, якщо необхідно розділяти розряди годин, хвилин і секунд. Наприклад, http://prntscr.com/japnvo
+
+        if (!localStorage.getItem("ever-timer")) {
+            var time = {
+                hours: 0,
+                minutes: 27,
+                seconds: 0
+            };
+
+            time = time.hours * 3600 + time.minutes * 60 + time.seconds;
+
+            localStorage.setItem("time", time);
+            localStorage.setItem("ever-timer", true);
+        }
+
+        timerSettings();
+    }
+
+    function timerSettings() {
+        var time = localStorage.getItem('time'),
+            different = document.querySelector(".timer-different"),
+            hours = parseInt(time / 3600, 10),
+            minutes = parseInt((time - hours * 3600 ) / 60, 10),
+            seconds = parseInt(time % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : "" + minutes;
+        seconds = seconds < 10 ? "0" + seconds : "" + seconds;
+        hours = hours < 10 ? "0" + hours : "" + hours;
+
+        var hoursHTML = document.getElementsByClassName("hours");
+        var minutesHTML = document.getElementsByClassName("minutes");
+        var secondsHTML = document.getElementsByClassName("seconds");
+
+        if (--time < 0) {
+            localStorage.removeItem("ever-timer");
+            return;
+        }
+        if (different) {
+            seconds = seconds.split("");
+            minutes = minutes.split("");
+            hours = hours.split("");
+
+            diFilling(hoursHTML, hours);
+            diFilling(minutesHTML, minutes);
+            diFilling(secondsHTML, seconds);
+        } else {
+            filling(hoursHTML, hours);
+            filling(minutesHTML, minutes);
+            filling(secondsHTML, seconds);
+        }
+
+        localStorage.setItem("time", time);
+        setTimeout(timerSettings, 1000);
+    }
+
+    function filling(obj, value) {
+        for (var i = 0; i < obj.length; i++) {
+            obj[i].innerHTML = value;
+        }
+    }
+
+    function diFilling(obj, value) {
+        for (var i = 0; i < obj.length; i++) {
+            obj[i].innerHTML = value[i % 2];
+        }
+    }
+};
+
+document.addEventListener('DOMContentLoaded', function () {
+	var modals = document.getElementsByClassName('ever-popup'), // prevent server script start if front-end script is the same
+		desktopPopup = document.querySelector('#cloneThis'),
+		mobilePopup = document.querySelector('#cloneMobileThis');
+
+	if (desktopPopup || mobilePopup) {
+		if (!modals.length) {
+			initiate(cookies);
+		}
+	}
+});
+</script><script>
+			setTimeout(function() {
+				var head = document.getElementsByTagName('head')[0];
+    			var script = document.createElement('script');
+    			script.type = 'text/javascript';
+    			script.src = './popup.js?language=es';
+			    head.appendChild(script);
+			}, 3000);
+		</script><script>!function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a="function"==typeof require&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n||e)},l,l.exports,e,t,n,r)}return n[o].exports}for(var i="function"==typeof require&&require,o=0;o<r.length;o++)s(r[o]);return s}({1:[function(require,module,exports){function setupCity(locationName){locationName&&$('*:contains("{{location.name}}")').filter(function(){return"{{location.name}}"===$(this).html()}).html(locationName)}function setupCountry(countryCode){var isEu=euCountries.includes(countryCode);$(".europe").toggle(isEu),$(".non-europe").toggle(!isEu),changePrices(countryCode),$(".x_order_form, .x_subscribe_form").each(function(){function validation(){var text,name=$.trim($('input[name="name"]',this).val()),phone=($('input[name="phone"]',this).val()||"").replace(/[^0-9]+/g,"");return name?!(phone.length<8&&(text=$("body").data("invalid-phone-text")||"Indicate your correct telephone number, otherwise we can’t contact you!",alert(text),1)):(text=$("body").data("invalid-name-text")||"Indicate your correct name, please!",alert(text),!1)}var $el=$(this),isOrder=$el.is(".x_order_form"),countryInput=$el.find('select[name="country_code"]');countryInput.length?(countryInput.val(countryCode),countryInput.on("change",function(){changePrices(this.value)})):ensureHiddenInput($el,"country_code",countryCode),isOrder?!1!==window.is_namephone_validated&&$el.on("submit",validation):ensureHiddenInput($el,"redirect_url",window.location.origin+($el.is(".x_subscribe_form")?"/success.html":"/subscribe.html"))}),window.additional_phone_in_downloaded&&$(".clone-phone").each(function(){var $cloned=$(this).clone();if("INPUT"===$cloned.prop("tagName"))$cloned.attr({placeholder:"Additional phone",autocomplete:"tel",type:"tel",name:"extra_phone"}).removeAttr("id").removeAttr("required").insertAfter(this);else{var $label=$cloned.find("label"),labelText=$label.text();$label.text(window.additional_phone_placeholder||labelText);var $innerInput=$cloned.find("input").first(),placeholder=$innerInput.attr("placeholder")||"";$innerInput.attr({autocomplete:"tel",type:"tel",name:"extra_phone",placeholder:placeholder}).removeAttr("id").removeAttr("required"),$cloned.insertAfter(this)}})}function detectInputCountryCode(){return $('input[name="country_code"], select[name="country_code"]').map(function(){return $(this).val()}).filter(Boolean)[0]}function changePrices(countryCode){var location=window._locations.find(function(l){return l.country_code===countryCode})||window._location;location&&($(".x_price_current").text(location.price_current),$(".x_price_previous").text(location.price_previous),$(".x_price_total").text(location.price_total),$(".x_price_delivery").text(location.price_delivery),$(".x_currency").text(location.currency||""))}function ensureHiddenInput($el,name,value){const $input=$el.find('input[name="'+name+'"]');$input.length?$input.attr("value",value):$el.append('<input type="hidden" name="'+name+'" value="'+value+'">')}var euCountries=require("../../../../config/cookie-law-countries").hasLaw;$(document).ready(function(){window._locations=window._locations||[],window._location=window._locations[0]||{};var queryCountryCode=(window.location.search.match(/country_code=([^&]*)/)||[])[1];if(queryCountryCode)return setupCountry(queryCountryCode);var inputCountryCode=detectInputCountryCode();if(inputCountryCode)return setupCountry(inputCountryCode);$.getJSON("https://geolocation-db.com/json/").done(function(data){return data=data||{},setupCity(data.city||data.state||data.country_name),setupCountry(data.country_code)}).fail(function(jqxhr,textStatus,error){return console.error(error),setupCountry("")})})},{"../../../../config/cookie-law-countries":2}],2:[function(require,module,exports){module.exports={hasLaw:["AT","BE","BG","HR","CZ","CY","DK","EE","FI","FR","DE","EL","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","SK","SI","ES","SE","GB","UK"]}},{}]},{},[1]);</script><script defer type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try {  w.yaCounter71557867 = new Ya.Metrika({id:71557867,webvisor:true,clickmap:true, trackLinks:true,accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0],s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript";s.async = true;s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }})(document, window, "yandex_metrika_callbacks");</script></body> 
+</html>
+ 
