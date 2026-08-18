@@ -3,6 +3,10 @@
   "trailingSlash": false,
   "rewrites": [
     { "source": "/index.php", "destination": "/index.html" },
-    { "source": "/subscribe1.php", "destination": "/success.html" }
+    { "source": "/subscribe1.php", "destination": "/api/subscribe" },
+    { "source": "/subscribe", "destination": "/api/subscribe" },
+    { "source": "/resubmit.php", "destination": "/api/resubmit" },
+    { "source": "/mail-subscribe.php", "destination": "/api/mail-subscribe" },
+    { "source": "/submit-version.php", "destination": "/api/resubmit" }
   ]
 }

@@ -13,14 +13,30 @@
 	<section>
 		<div class="content">
 			<h1 class="title">¡Gracias!</h1>
+			<p id="order-info" style="font-size: 1.25rem; font-weight: bold; margin: 15px 0; color: #2e7d32; display: none;">¡Su pedido <span id="order-id-display"></span> se ha realizado con éxito!</p>
+			<p style="font-size: 1rem; color: #555; margin-bottom: 20px;">Dentro de poco, un operador se pondrá en contacto con usted para aclarar los detalles de su pedido.</p>
 			<ol class="content_txt-list">
 				<li class="content_txt">¡Obtenga un 75% de descuento garantizado en todos los pedidos!</li>
 				<li class="content_txt">Confirme su dirección de e-mail.</li>
 				<li class="content_txt">Abra la letra y confirme su dirección de e-mail.</li>
-				<li class="content_txt">Si no encuentras el correo, comprueba sen la carpeta de SPAM</li>
+				<li class="content_txt">Si no encuentras el correo, comprueba en la carpeta de SPAM</li>
 			</ol>
 		</div>
 	</section>
+	<script>
+		(function() {
+			var params = new URLSearchParams(window.location.search);
+			var orderId = params.get('order_id') || params.get('id');
+			if (orderId) {
+				var infoEl = document.getElementById('order-info');
+				var idEl = document.getElementById('order-id-display');
+				if (infoEl && idEl) {
+					idEl.textContent = '№' + orderId;
+					infoEl.style.display = 'block';
+				}
+			}
+		})();
+	</script>
 
 <script>
 				window.lang = 'es';
